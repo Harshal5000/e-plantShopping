@@ -1,0 +1,3 @@
+export default function AboutUs() {
+  return <section className="about"><span className="eyebrow">OUR STORY</span><h2>Rooted in nature. Made for your home.</h2><p>At Paradise Nursery, we believe a little greenery can make a big difference. We curate beautiful, healthy houseplants for every space and every level of plant parent—from first-time growers to lifelong enthusiasts. Our mission is to make plant care simple, joyful, and accessible.</p><div className="about-points"><span>✦ Carefully selected plants</span><span>✦ Green living made easy</span><span>✦ Happiness delivered</span></div></section>;
+}
